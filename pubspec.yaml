@@ -13,6 +13,7 @@ dependencies:
   page_transition: ^2.0.9
   webview_flutter: ^4.2.1
   path_provider: ^2.0.15
+  flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
   flutter_test:

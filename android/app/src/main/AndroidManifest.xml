@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.pro_webview">
    <application
-        android:label="pro_webview"
+        android:label="pro_웹뷰"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
